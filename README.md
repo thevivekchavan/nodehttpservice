@@ -8,4 +8,4 @@ Run a HTTP node service which accepts http requests
 5. Run the service using command "node <file_name>.js"
 6. You can now browse the website locally on "http://127.0.0.1:<port>" (Eg: http://127.0.0.1:8080)
 
-Shortcut: (Just run the 'start_http_server.bat' to do the above steps automatically)
+Shortcut: (Just run the 'start_http_service.bat' to do the above steps automatically)
